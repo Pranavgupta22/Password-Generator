@@ -1,0 +1,3 @@
+# Password-Generator
+Enhance online security and streamline password management effortlessly with this easy-to-use command-line tool 
+The Random Password Generator is a Python-based utility designed to facilitate the creation of strong and customizable passwords. With options for specifying password length and character sets, <br> including uppercase letters, lowercase letters, numbers, and special symbols, this tool empowers users to enhance their online security effortlessly. Its user-friendly command-line interface ensures the quick ,<br>generation of unique passwords, making it an ideal solution for a wide range of applications, from bolstering account security to simplifying access key creation.
